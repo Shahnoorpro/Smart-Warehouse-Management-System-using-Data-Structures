@@ -4,17 +4,17 @@ A C++ console-based Smart Warehouse Management System using Data Structures and 
 
 ## Demo
 
-![Smart Warehouse Demo](smartwarehouse_project_demo.gif)
+![Smart Warehouse Demo](assets/smartwarehouse_project_demo.gif)
 
 ## Project Diagrams
 
 ### Operational Block Diagram
 
-![Operational Block Diagram](smart_warehouse_blockdiagram.png)
+![Operational Block Diagram](assets/smart_warehouse_blockdiagram.png)
 
 ### City Graph - Delivery Network
 
-![City Graph](smart_warehouse_city_graph.png)
+![City Graph](assets/smart_warehouse_city_graph.png)
 
 ## Features
 
@@ -38,7 +38,6 @@ A C++ console-based Smart Warehouse Management System using Data Structures and 
 * C++
 * Data Structures and Algorithms
 * Graph Algorithms
-
 
 ## Author
 
